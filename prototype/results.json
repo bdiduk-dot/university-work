@@ -1,0 +1,364 @@
+{
+  "results": [
+    {
+      "id": 281,
+      "distance_km": 3.4,
+      "transport": "велосипед",
+      "traffic": 3,
+      "weather": "ясно",
+      "speed_kmh": 16.7,
+      "ready_min": 1,
+      "items": 5,
+      "expected": 14.5,
+      "actual": 19.5,
+      "interval": [
+        14.3,
+        24.8
+      ],
+      "correct": true
+    },
+    {
+      "id": 282,
+      "distance_km": 1.8,
+      "transport": "авто",
+      "traffic": 3,
+      "weather": "ясно",
+      "speed_kmh": 21.8,
+      "ready_min": 9,
+      "items": 3,
+      "expected": 15.9,
+      "actual": 15.6,
+      "interval": [
+        10.3,
+        20.8
+      ],
+      "correct": true
+    },
+    {
+      "id": 283,
+      "distance_km": 2.7,
+      "transport": "велосипед",
+      "traffic": 6,
+      "weather": "ясно",
+      "speed_kmh": 10.4,
+      "ready_min": 0,
+      "items": 1,
+      "expected": 17.7,
+      "actual": 25.4,
+      "interval": [
+        20.2,
+        30.7
+      ],
+      "correct": false
+    },
+    {
+      "id": 284,
+      "distance_km": 1.6,
+      "transport": "авто",
+      "traffic": 6,
+      "weather": "ясно",
+      "speed_kmh": 25.6,
+      "ready_min": 4,
+      "items": 2,
+      "expected": 12.1,
+      "actual": 11.1,
+      "interval": [
+        5.9,
+        16.3
+      ],
+      "correct": true
+    },
+    {
+      "id": 285,
+      "distance_km": 3.7,
+      "transport": "велосипед",
+      "traffic": 9,
+      "weather": "ясно",
+      "speed_kmh": 10.8,
+      "ready_min": 12,
+      "items": 6,
+      "expected": 36.6,
+      "actual": 35.6,
+      "interval": [
+        30.4,
+        40.9
+      ],
+      "correct": true
+    },
+    {
+      "id": 286,
+      "distance_km": 1.1,
+      "transport": "авто",
+      "traffic": 1,
+      "weather": "ясно",
+      "speed_kmh": 27.9,
+      "ready_min": 12,
+      "items": 3,
+      "expected": 16.8,
+      "actual": 17.4,
+      "interval": [
+        12.2,
+        22.7
+      ],
+      "correct": true
+    },
+    {
+      "id": 287,
+      "distance_km": 1.1,
+      "transport": "пішки",
+      "traffic": 4,
+      "weather": "дощ",
+      "speed_kmh": 5.3,
+      "ready_min": 3,
+      "items": 3,
+      "expected": 20.6,
+      "actual": 18.0,
+      "interval": [
+        12.8,
+        23.3
+      ],
+      "correct": true
+    },
+    {
+      "id": 288,
+      "distance_km": 0.9,
+      "transport": "велосипед",
+      "traffic": 0,
+      "weather": "ясно",
+      "speed_kmh": 17.8,
+      "ready_min": 9,
+      "items": 1,
+      "expected": 12.7,
+      "actual": 11.2,
+      "interval": [
+        6.0,
+        16.4
+      ],
+      "correct": true
+    },
+    {
+      "id": 289,
+      "distance_km": 1.3,
+      "transport": "пішки",
+      "traffic": 9,
+      "weather": "дощ",
+      "speed_kmh": 5.0,
+      "ready_min": 6,
+      "items": 2,
+      "expected": 24.8,
+      "actual": 32.8,
+      "interval": [
+        27.5,
+        38.0
+      ],
+      "correct": false
+    },
+    {
+      "id": 290,
+      "distance_km": 3.3,
+      "transport": "велосипед",
+      "traffic": 2,
+      "weather": "дощ",
+      "speed_kmh": 17.7,
+      "ready_min": 8,
+      "items": 3,
+      "expected": 21.8,
+      "actual": 23.0,
+      "interval": [
+        17.7,
+        28.2
+      ],
+      "correct": true
+    },
+    {
+      "id": 291,
+      "distance_km": 2.0,
+      "transport": "пішки",
+      "traffic": 8,
+      "weather": "ясно",
+      "speed_kmh": 4.0,
+      "ready_min": 3,
+      "items": 6,
+      "expected": 42.0,
+      "actual": 28.7,
+      "interval": [
+        23.5,
+        34.0
+      ],
+      "correct": false
+    },
+    {
+      "id": 292,
+      "distance_km": 4.2,
+      "transport": "пішки",
+      "traffic": 3,
+      "weather": "дощ",
+      "speed_kmh": 5.7,
+      "ready_min": 7,
+      "items": 1,
+      "expected": 58.8,
+      "actual": 57.9,
+      "interval": [
+        52.6,
+        63.1
+      ],
+      "correct": true
+    },
+    {
+      "id": 293,
+      "distance_km": 6.7,
+      "transport": "пішки",
+      "traffic": 1,
+      "weather": "дощ",
+      "speed_kmh": 5.6,
+      "ready_min": 4,
+      "items": 3,
+      "expected": 83.1,
+      "actual": 85.9,
+      "interval": [
+        80.6,
+        91.1
+      ],
+      "correct": true
+    },
+    {
+      "id": 294,
+      "distance_km": 1.0,
+      "transport": "авто",
+      "traffic": 7,
+      "weather": "ясно",
+      "speed_kmh": 27.5,
+      "ready_min": 12,
+      "items": 2,
+      "expected": 12.3,
+      "actual": 18.7,
+      "interval": [
+        13.5,
+        24.0
+      ],
+      "correct": false
+    },
+    {
+      "id": 295,
+      "distance_km": 4.9,
+      "transport": "велосипед",
+      "traffic": 7,
+      "weather": "ясно",
+      "speed_kmh": 16.5,
+      "ready_min": 7,
+      "items": 5,
+      "expected": 31.5,
+      "actual": 29.5,
+      "interval": [
+        24.3,
+        34.8
+      ],
+      "correct": true
+    },
+    {
+      "id": 296,
+      "distance_km": 5.4,
+      "transport": "пішки",
+      "traffic": 6,
+      "weather": "ясно",
+      "speed_kmh": 5.3,
+      "ready_min": 4,
+      "items": 3,
+      "expected": 73.5,
+      "actual": 73.5,
+      "interval": [
+        68.2,
+        78.7
+      ],
+      "correct": true
+    },
+    {
+      "id": 297,
+      "distance_km": 3.9,
+      "transport": "пішки",
+      "traffic": 7,
+      "weather": "ясно",
+      "speed_kmh": 5.2,
+      "ready_min": 10,
+      "items": 1,
+      "expected": 62.3,
+      "actual": 64.0,
+      "interval": [
+        58.8,
+        69.2
+      ],
+      "correct": true
+    },
+    {
+      "id": 298,
+      "distance_km": 2.1,
+      "transport": "пішки",
+      "traffic": 3,
+      "weather": "ясно",
+      "speed_kmh": 5.7,
+      "ready_min": 1,
+      "items": 6,
+      "expected": 26.2,
+      "actual": 24.7,
+      "interval": [
+        19.4,
+        29.9
+      ],
+      "correct": true
+    },
+    {
+      "id": 299,
+      "distance_km": 5.6,
+      "transport": "авто",
+      "traffic": 0,
+      "weather": "ясно",
+      "speed_kmh": 28.0,
+      "ready_min": 2,
+      "items": 5,
+      "expected": 15.4,
+      "actual": 18.8,
+      "interval": [
+        13.5,
+        24.0
+      ],
+      "correct": true
+    },
+    {
+      "id": 300,
+      "distance_km": 2.3,
+      "transport": "пішки",
+      "traffic": 1,
+      "weather": "дощ",
+      "speed_kmh": 5.1,
+      "ready_min": 12,
+      "items": 6,
+      "expected": 44.0,
+      "actual": 44.0,
+      "interval": [
+        38.7,
+        49.2
+      ],
+      "correct": true
+    }
+  ],
+  "mae": 3.05,
+  "coverage": 0.8,
+  "radius": 5.24,
+  "example_input": {
+    "distance_km": 3.4,
+    "speed_kmh": 16.7,
+    "transport": "велосипед",
+    "ready_min": 1,
+    "items": 5,
+    "traffic": 3,
+    "weather": "ясно"
+  },
+  "example_output": {
+    "eta_min": 19.5,
+    "interval_min": [
+      14.3,
+      24.8
+    ],
+    "source": "prototype_ml"
+  }
+}
